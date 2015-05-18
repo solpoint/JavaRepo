@@ -1,4 +1,9 @@
 #################
+##Git mergetool backupfiles
+#################
+*.orig
+.gitignore
+#################
 ## Eclipse
 #################
 
