@@ -51,3 +51,12 @@ Herlev
 Hobro
 Kolding
 Kerteminde
+
+
+Aarhus
+Randers
+Horsens
+Esbjerg
+Aalborg
+Vejle
+Odense
