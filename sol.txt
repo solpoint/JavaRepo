@@ -55,10 +55,10 @@ Kerteminde
 
 Aarhus
 Randers
-Horsens
+Horsens*
 Esbjerg
 Aalborg
-Vejle
+Vejle*
 Odense
 
 
@@ -67,3 +67,7 @@ Marikiti
 Burma
 Soko mjinga
 Laini.
+
+28-05-2015 Tor.
+ -Akinyi oyudo DL bang' nyagruok miwuoro.
+
